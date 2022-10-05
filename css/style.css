@@ -1,0 +1,75 @@
+.container{
+    background-color: white;
+    width:680px;
+    margin: 100px auto;
+    border-radius: 8px;
+}
+body{
+    background-color:  hsl(30, 38%, 92%);
+    margin: 0;
+}
+.img1{
+    border-radius: 8px;
+    height: 508px;
+    float: left;
+    padding-right: 40px;
+}
+h1{
+    font-family:'Fraunces', serif;;
+}
+p{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(128, 128, 128,0.8);
+    line-height: 2;
+}
+.text-container{
+    padding-top: 30px;
+}
+.price1{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family:'Fraunces', serif;;
+    color: #1E836C;
+    font-size: 2rem;
+    display: inline-block;
+}
+.price2{
+    margin-left: 10px;
+    display: inline-block;
+    text-decoration: line-through;
+    position: relative;
+    bottom: 6px;
+}
+.btn1{
+    background-color: #1E836C;
+    border: none;
+    padding: 10px 80px;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-bottom: 37px;
+}
+.btn1:hover{
+    background-color: rgb(16, 177, 140);
+}
+.img2{
+    padding-right: 10px;
+}
+.attribution{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding: 50px;
+    background-color: #688473;
+
+}
+.attribution a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #364835;
+}
+.attribution a:hover{
+    color:#e7d7b9;
+}
